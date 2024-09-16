@@ -1,0 +1,15 @@
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\cliente\cliente\bin\Debug\net8.0\cliente.exe
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\cliente\cliente\bin\Debug\net8.0\cliente.deps.json
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\cliente\cliente\bin\Debug\net8.0\cliente.runtimeconfig.json
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\cliente\cliente\bin\Debug\net8.0\cliente.dll
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\cliente\cliente\bin\Debug\net8.0\cliente.pdb
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\cliente\cliente\obj\Debug\net8.0\cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\cliente\cliente\obj\Debug\net8.0\cliente.AssemblyInfoInputs.cache
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\cliente\cliente\obj\Debug\net8.0\cliente.AssemblyInfo.cs
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\cliente\cliente\obj\Debug\net8.0\cliente.csproj.CoreCompileInputs.cache
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\cliente\cliente\obj\Debug\net8.0\cliente.sourcelink.json
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\cliente\cliente\obj\Debug\net8.0\cliente.dll
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\cliente\cliente\obj\Debug\net8.0\refint\cliente.dll
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\cliente\cliente\obj\Debug\net8.0\cliente.pdb
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\cliente\cliente\obj\Debug\net8.0\cliente.genruntimeconfig.cache
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\cliente\cliente\obj\Debug\net8.0\ref\cliente.dll

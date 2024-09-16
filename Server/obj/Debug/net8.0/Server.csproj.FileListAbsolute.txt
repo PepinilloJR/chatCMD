@@ -1,0 +1,29 @@
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\server\Server\bin\Debug\net8.0\Server.exe
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\server\Server\bin\Debug\net8.0\Server.deps.json
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\server\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\server\Server\bin\Debug\net8.0\Server.dll
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\server\Server\bin\Debug\net8.0\Server.pdb
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\server\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\server\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\server\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\server\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\server\Server\obj\Debug\net8.0\Server.sourcelink.json
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\server\Server\obj\Debug\net8.0\Server.dll
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\server\Server\obj\Debug\net8.0\refint\Server.dll
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\server\Server\obj\Debug\net8.0\Server.pdb
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\server\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+C:\Users\pepin\OneDrive\Escritorio\proyectos en .NET\extra-cosasMiasUtiles\cliente y server TCP\server\Server\obj\Debug\net8.0\ref\Server.dll
+C:\Users\pepin\OneDrive\Escritorio\ChatCMD\Server\bin\Debug\net8.0\Server.exe
+C:\Users\pepin\OneDrive\Escritorio\ChatCMD\Server\bin\Debug\net8.0\Server.deps.json
+C:\Users\pepin\OneDrive\Escritorio\ChatCMD\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\Users\pepin\OneDrive\Escritorio\ChatCMD\Server\bin\Debug\net8.0\Server.dll
+C:\Users\pepin\OneDrive\Escritorio\ChatCMD\Server\bin\Debug\net8.0\Server.pdb
+C:\Users\pepin\OneDrive\Escritorio\ChatCMD\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepin\OneDrive\Escritorio\ChatCMD\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+C:\Users\pepin\OneDrive\Escritorio\ChatCMD\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+C:\Users\pepin\OneDrive\Escritorio\ChatCMD\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\pepin\OneDrive\Escritorio\ChatCMD\Server\obj\Debug\net8.0\Server.dll
+C:\Users\pepin\OneDrive\Escritorio\ChatCMD\Server\obj\Debug\net8.0\refint\Server.dll
+C:\Users\pepin\OneDrive\Escritorio\ChatCMD\Server\obj\Debug\net8.0\Server.pdb
+C:\Users\pepin\OneDrive\Escritorio\ChatCMD\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+C:\Users\pepin\OneDrive\Escritorio\ChatCMD\Server\obj\Debug\net8.0\ref\Server.dll
