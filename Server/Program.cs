@@ -14,7 +14,21 @@ namespace ServerTCP
     { 
         public static void Main(string[] args)
         {
-            Server server = new Server("26.34.159.22", 11000);
+            string ip = "";
+            while (true)
+            {
+                Console.WriteLine("Type the IP that the server will use as the endPoint");
+                ip = Console.ReadLine() + "";
+                IPAddress _ip;
+                if (IPAddress.TryParse(ip, out _ip))
+                {
+                    break;
+                } else
+                {
+                    Console.WriteLine("the IP was not valid");
+                }
+            }
+            Server server = new Server(ip, 11000);
             server.Start();
         }
 
@@ -107,7 +121,7 @@ namespace ServerTCP
             Thread Enviador = new Thread(ActualizarClientes);
 
             Enviador.Start();
-
+            Console.WriteLine("Servidor iniciado");
             while (true) {
 
                 // PARA INICIAR A TRABAJAR, el socket debe aceptar una solicitud 
